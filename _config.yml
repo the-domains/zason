@@ -1,0 +1,28 @@
+name: Zason
+favicon: null
+layout_spectrum: 0.6449813337530941
+typography_spectrum: 0.7110369044821709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8137130395043641
+  lightness: 0.03783977124840021
+  saturation: 0.4312224101740867
+  rhythmicContrast: 0.5726234191097319
+purpose: []
