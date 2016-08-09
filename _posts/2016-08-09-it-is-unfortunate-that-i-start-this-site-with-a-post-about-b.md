@@ -9,20 +9,20 @@ description: >-
   Online. You see, for me, this game was to be "it." After the disappointment of
   ArcheAge and Trion's money-grubbin' ways I decided to avoid an MMORPG with a
   heavy CashShop and unforgiving RNG.
-datePublished: '2016-08-09T18:42:59.184Z'
-dateModified: '2016-08-09T18:41:50.470Z'
+datePublished: '2016-08-09T18:46:25.493Z'
+dateModified: '2016-08-09T18:46:25.070Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-09-it-is-unfortunate-that-i-start-this-site-with-a-post-about-b.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: >-
-  _posts/2016-08-09-it-is-unfortunate-that-i-start-this-site-with-a-post-about-b.md
+starred: true
 url: it-is-unfortunate-that-i-start-this-site-with-a-post-about-b/index.html
 _type: Article
 
